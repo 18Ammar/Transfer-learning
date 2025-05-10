@@ -51,5 +51,4 @@ pip install torch torchvision
 - Pretrained ResNet Backbone (resnet18 / resnet50)
 - 1x1 Conv → HEMaxBlock → AvgPool → FC
 
-## License
-MIT License
+
